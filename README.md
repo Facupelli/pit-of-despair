@@ -10,6 +10,10 @@ Job hunting can feel like falling into a pit of despair: endless applications, g
 
 This project was created for the Boot.dev Hackathon, where time was of the essence. I'm not particularly proud of the code—it’s a bit rough around the edges due to the tight deadline. Many ambitious ideas, like a more robust leaderboard or enhanced sound effects, had to be shelved. Nevertheless, building The Pit of Despair was a blast, and the process of blending dark humor with a functional job tracker was incredibly fun.
 
+## Live Preview
+
+Experience The Pit of Despair in action at https://pit-of-despair.vercel.app/. The live demo allows you to explore the app’s cyberpunk aesthetic, interact with the Anguish Index, and test the preset levels without setting up locally. Try appending ?level=1 through ?level=6 to the URL to see each Anguish Index level in action!
+
 ## Showcase: Anguish Index Level Presets
 
 The Pit of Despair features six distinct Anguish Index levels, each reflecting a deeper stage of job-hunting misery. To help the Boot.dev Hackathon jury experience all levels without grinding through applications, we've provided presets accessible via search query parameters. Use the links below to instantly load the app with a predefined Anguish Index corresponding to each level:
