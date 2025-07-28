@@ -16,8 +16,10 @@ Experience The Pit of Despair in action at https://pit-of-despair.vercel.app/. T
 
 ![pit-of-despair-example](https://res.cloudinary.com/dzjz8pe0y/image/upload/v1753712207/samples/the-pit-of-despair_rjne61.gif)
 
-<img src="https://res.cloudinary.com/dzjz8pe0y/image/upload/v1753712381/samples/pit-of-despair-1_ynu4yb.png" width="360" alt="Static screenshot 1"/>
-<img src="https://res.cloudinary.com/dzjz8pe0y/image/upload/v1753712403/samples/pit-of-despair-2_bwppv5.png" width="360" alt="Static screenshot 2"/>
+<div style="display:inline-flex; gap:12px; flex-wrap:wrap;">
+   <img src="https://res.cloudinary.com/dzjz8pe0y/image/upload/v1753712381/samples/pit-of-despair-1_ynu4yb.png" width="360" alt="Static screenshot 1"/>
+   <img src="https://res.cloudinary.com/dzjz8pe0y/image/upload/v1753712403/samples/pit-of-despair-2_bwppv5.png" width="360" alt="Static screenshot 2"/>
+</div>
 
 ## Showcase: Anguish Index Level Presets
 
