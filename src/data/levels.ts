@@ -2,7 +2,7 @@ import { LEVELS_NAMES } from "@/lib/app.constants";
 import type { Application, Level } from "@/lib/app.types";
 
 export const LEVELS: Level[] = [
-	{ limit: 1, name: LEVELS_NAMES[1], number: 1 },
+	{ limit: 10, name: LEVELS_NAMES[1], number: 1 },
 	{ limit: 25, name: LEVELS_NAMES[2], number: 2 },
 	{ limit: 50, name: LEVELS_NAMES[3], number: 3 },
 	{ limit: 75, name: LEVELS_NAMES[4], number: 4 },

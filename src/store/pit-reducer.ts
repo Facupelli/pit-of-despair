@@ -64,6 +64,13 @@ export function pitReducer(state: PitState, event: PitEvent): PitState {
 		case "ApplicationsCleared":
 			return { ...state, applications: [], error: null };
 
+		case "BULK_ADD":
+			return {
+				...state,
+				applications: [...state.applications, ...event.payload],
+				error: null,
+			};
+
 		default:
 			return state;
 	}

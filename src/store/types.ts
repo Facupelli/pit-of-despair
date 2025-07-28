@@ -10,7 +10,8 @@ export type PitEvent =
 	| { type: "ApplicationDeleted"; id: string }
 	| { type: "Ghosted"; id: string }
 	| { type: "BulkStatusChange"; ids: string[]; newStatus: Status }
-	| { type: "ApplicationsCleared" };
+	| { type: "ApplicationsCleared" }
+	| { type: "BULK_ADD"; payload: Application[] };
 
 export interface PitState {
 	applications: Application[];
