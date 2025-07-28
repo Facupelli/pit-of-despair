@@ -22,6 +22,8 @@ The Pit of Despair features six distinct Anguish Index levels, each reflecting a
 
 To use these presets, ensure the app is running locally (see Installation below) and click the links or append ?level=${levelnumber} to the URL (e.g., http://localhost:5173?level=1). Each preset populates The Pit with sample applications to simulate the corresponding Anguish Index level, showcasing the UI, animations, and level-specific features.
 
+The app uses LocalStorage to save the data so you can just delete the key to have an empty state.
+
 ## Features
 
 - **Anguish Index**: A dynamic score reflecting your job-hunt misery, complete with sarcastic level names like "Intern of Sorrow" or "VP of Void."

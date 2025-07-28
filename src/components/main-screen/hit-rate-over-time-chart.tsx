@@ -38,7 +38,10 @@ function getChartData(applications: Application[]): ChartData[] {
 			monthlyData[month] = { total: 0, positive: 0 };
 		}
 		monthlyData[month].total += 1;
-		if (app.status.startsWith("interview") || app.status === STATUS.OFFER) {
+		if (
+			app.history.map((h) => h.status).includes(STATUS.INTERVIEW1) ||
+			app.status === STATUS.OFFER
+		) {
 			monthlyData[month].positive += 1;
 		}
 	});
