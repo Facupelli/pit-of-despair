@@ -21,7 +21,6 @@ function App() {
 						<div className="grid grid-cols-[1fr_30%] gap-8">
 							<AnguishIndex />
 							<div className="flex flex-col gap-8">
-								{/* <RejectionStreak /> */}
 								<ProgramBox title="EXPORT.exe" className="">
 									<p className="text-pretty text-xs m-0 pb-4">
 										Share your pain with others. Your are not alone!
