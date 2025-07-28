@@ -16,6 +16,9 @@ Experience The Pit of Despair in action at https://pit-of-despair.vercel.app/. T
 
 ![pit-of-despair-example](https://res.cloudinary.com/dzjz8pe0y/image/upload/v1753712207/samples/the-pit-of-despair_rjne61.gif)
 
+<img src="https://res.cloudinary.com/dzjz8pe0y/image/upload/v1753712381/samples/pit-of-despair-1_ynu4yb.png" width="360" alt="Static screenshot 1"/>
+<img src="https://res.cloudinary.com/dzjz8pe0y/image/upload/v1753712403/samples/pit-of-despair-2_bwppv5.png" width="360" alt="Static screenshot 2"/>
+
 ## Showcase: Anguish Index Level Presets
 
 The Pit of Despair features six distinct Anguish Index levels, each reflecting a deeper stage of job-hunting misery. To help the Boot.dev Hackathon jury experience all levels without grinding through applications, we've provided presets accessible via search query parameters. Use the links below to instantly load the app with a predefined Anguish Index corresponding to each level:
