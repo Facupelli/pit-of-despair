@@ -1,4 +1,3 @@
-````md
 # The Pit of Despair
 
 A cyberpunk-themed job application tracker that turns the job hunt into a darkly humorous, game-like experience.
@@ -127,5 +126,3 @@ npm run preview
 
 The Pit of Despair was designed as a small, expressive hackathon project. It is intentionally playful, slightly dramatic, and built around the idea that even frustrating processes can become more bearable with good interaction design.
 
-```
-```
